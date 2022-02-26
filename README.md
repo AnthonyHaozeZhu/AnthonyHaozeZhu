@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail 1119886232@qq.com to get me
-
+- 本人目前主要记录在南开大学本科期间所做的课程作业
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyHaozeZhu&show_icons=true&theme=onedark" />
