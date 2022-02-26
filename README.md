@@ -1,12 +1,6 @@
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎您访问我的Github!&center=true&size=27">
-  </a>
-</h1>
+# Welcome my Friend!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyHaozeZhu&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
+
 
 
 - 👋 Hi, I’m @AnthonyHaozeZhu
@@ -20,6 +14,9 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyHaozeZhu&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
