@@ -11,6 +11,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail 1119886232@qq.com to get me
 - 本人目前主要记录在南开大学本科期间所做的课程作业
+- 如有错误与不妥之处欢迎指正
 
 
 
