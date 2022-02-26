@@ -43,13 +43,10 @@
 </div>
 
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" />
+</div>
 
-![](https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyHaozeZhu)](https://github.com/anuraghazra/github-readme-stats) -->
-<!---
-AnthonyHaozeZhu/AnthonyHaozeZhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 
