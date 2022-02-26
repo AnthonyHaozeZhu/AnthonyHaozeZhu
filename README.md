@@ -9,8 +9,8 @@
 - 👀 I’m interested in mechinelearning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail 1119886232@qq.com to get me
-- 本人目前主要记录在南开大学本科期间所做的课程作业
+- 📫 mail 1119886232@qq.com
+- 记录在南开大学期间作业、科研
 - 如有错误与不妥之处欢迎指正
 
 
@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyHaozeZhu&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyHaozeZhu&layout=compact&langs_count=8&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 
