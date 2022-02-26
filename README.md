@@ -15,12 +15,19 @@
 
 &nbsp;
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyHaozeZhu&layout=compact&langs_count=8&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
+ -->
+<table>
+    <tr>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k"></td>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyHaozeZhu&layout=compact&langs_count=8&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"  ></td>
+    </tr>
+</table>
 
 
 
