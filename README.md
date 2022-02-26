@@ -1,10 +1,11 @@
 # Welcome my Friend!
+
 <a href="https://github.com/anuraghazra/convoychat">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" />
 </a>
 
 
-
+&nbsp;
 - 👋 Hi, I’m @AnthonyHaozeZhu
 - 👀 I’m interested in mechinelearning
 - 🌱 I’m currently learning NLP
@@ -12,9 +13,12 @@
 - 📫 mail 1119886232@qq.com
 - 记录在南开大学期间学习生活
 - 如有错误与不妥之处欢迎指正
+<!-- 
+&nbsp; -->
 
-&nbsp;
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" />
+</div>
 
 <table>
     <tr>
@@ -43,9 +47,7 @@
 </div>
 
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" />
-</div>
+
 
 
 
