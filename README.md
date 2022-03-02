@@ -7,7 +7,7 @@
 
 
 - 👋 Hi, I’m @AnthonyHaozeZhu
-- 👀 I’m interested in mechinelearning
+- 👀 I’m interested in machinelearning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail 1119886232@qq.com
