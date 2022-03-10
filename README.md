@@ -10,7 +10,7 @@
 - 👀 I’m interested in machinelearning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail 1119886232@qq.com
+- 📫 mail nkcs_haozezhu@foxmail.com
 - 记录在南开大学期间学习生活
 - 如有错误与不妥之处欢迎指正
 <!-- 
