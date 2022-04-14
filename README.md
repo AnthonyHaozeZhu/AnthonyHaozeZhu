@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail nkcs_haozezhu@foxmail.com
-- 记录在南开大学期间学习生活
+- I am studying for my bachelor's degree at the School of Computer Science, Nankai University
 - 如有错误与不妥之处欢迎指正
 <!-- 
 &nbsp; -->
