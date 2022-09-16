@@ -10,7 +10,7 @@
 - 👀 I’m interested in machinelearning
 - 🌱 Currently working in Database & Infomation System Lab, Collage of Computer Science, Nankai Unversity on multimodal data analysis.
 - 📫 mail nkcs_haozezhu@foxmail.com
-- 🏫 I am studying for my bachelor's degree at the College of Computer Science, Nankai University
+- 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
 <!-- 
 &nbsp; -->
 
