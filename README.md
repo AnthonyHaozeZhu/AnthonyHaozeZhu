@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @AnthonyHaozeZhu
 - 👀 I’m interested in machinelearning
-- 🌱 Currently working in Database & Infomation System Lab, Collage of Computer Science, Nankai Unversity on multimodal data analysis.
+- 🌱 Currently working in Database & Infomation System Lab, Nankai Unversity on multimodal data analysis.
 - 📫 mail zhuhaoze@dbis.nankai.edu.cn
 - 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
 <!-- 
