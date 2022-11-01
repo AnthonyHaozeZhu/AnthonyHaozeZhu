@@ -9,13 +9,16 @@
 - 👋 Hi, I’m @AnthonyHaozeZhu
 - 👀 I’m interested in Deeplearning
 - 🌱 Currently working in Database & Infomation System Lab, Nankai Unversity on multimodal data analysis.
-- 📫 mail zhuhaoze@dbis.nankai.edu.cn
+- 📫 mail zhuhaoze@dbis.nankai.edu.cn to reach me
 - 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
 <!-- 
 &nbsp; -->
 
 # 写给NKU20级及以后的学弟学妹们
 希望你们在参考我的各种作业之前，先认真阅读我接下来说的话
+- 首先，我创建这么多作业仓库的最初目的，是为了记录我写每一项作业的过程，包括最初的搭建环境到更改各种bug，记录解决问题的心路历程以及方法
+- 然后呢，在课程结束后，本着开源的精神，我将私有的仓库设为了共有。其中主要是因为，在上手一些全新的课程的时候，在最初没有任何的参考，很难上手，整个21年下半年也就是最忙的大三上学期，我被几门较难的课程折磨的很痛苦，如果在这时能有前人的经验进行参考，可能会让一些工作的入门门槛稍微降低一些，也可以学习到一些新的理念和思路。
+- 但是，$\color{red}{这些仓库存在的意义绝对不是用来简单的clone下来糊弄交上现在的作业的}$
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" />
