@@ -1,5 +1,8 @@
 # Welcome my Friend!
 
+## 写给NKU20级及以后的学弟学妹们
+希望你们在参考我的各种作业之前，先认真阅读我接下来说的话
+
 <a href="https://github.com/anuraghazra/convoychat">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" />
 </a>
