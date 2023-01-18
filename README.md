@@ -49,16 +49,7 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=AnthonyHaozeZhu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-<h3 align="left">GitHub Readme Activity Graphy:</h3>
+<!-- <h3 align="left">GitHub Readme Activity Graphy:</h3>
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=AnthonyHaozeZhu&theme=dracula" />
-</div>
-
-
-
-
-
-
-
-
-
+</div> -->
