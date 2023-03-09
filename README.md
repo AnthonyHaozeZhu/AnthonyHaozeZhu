@@ -7,8 +7,8 @@
 
 
 - 👋 Hi, I’m @AnthonyHaozeZhu
-- 👀 I’m interested in Deeplearning
-- 🌱 Currently working in Database & Infomation System Lab, Nankai Unversity on multimodal data analysis.
+- 👀 I’m interested in NLP and CV
+- 🌱 Currently working in Database & Infomation System Lab, Nankai Unversity
 - 📫 mail zhuhaoze@dbis.nankai.edu.cn to reach me
 - 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
 <!-- 
