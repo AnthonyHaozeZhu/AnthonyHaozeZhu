@@ -52,7 +52,7 @@
 <code><a href="https://linux.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
 <code><a href="https://ubuntu.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
-<code><a href="https://pycharm.com" target="_blank"><img height="50" src="./source/1.svg"></a></code>
+<code><a href="https://www.jetbrains.com/pycharm" target="_blank"><img height="50" src="./source/1.svg"></a></code>
 
 
 <h3 align="left">Github Profile Trophy:</h3>
