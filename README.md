@@ -49,6 +49,7 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a></code>
 <code><a href="https://pytorch.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
+<code><a href="https://linux.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
 
 
 <h3 align="left">Github Profile Trophy:</h3>
