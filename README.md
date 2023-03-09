@@ -51,6 +51,8 @@
 <code><a href="https://pytorch.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://linux.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
 <code><a href="https://ubuntu.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="./1.png"></a></code>
 
 
 <h3 align="left">Github Profile Trophy:</h3>
