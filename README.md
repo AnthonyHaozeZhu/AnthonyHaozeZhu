@@ -1,8 +1,8 @@
 # Welcome my Friend!
 
-<a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" />
-</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat"> -->
+    <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyHaozeZhu&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k" /> -->
+<!-- </a> -->
 
 
 
