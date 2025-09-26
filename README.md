@@ -22,11 +22,11 @@
 - 还有很重要的一点，由于我的水平有限（我大三才开始学用git，这就是为啥只有大三开始的作业），作业中可能会存在着各种各样的问题，包括但不限于编译错误、结果有问题、逻辑问题、鲁棒性很差等一系列的问题，在看我的代码的时候一定要有甄别的阅读，请大家见谅。也欢迎大家指正，可以通过邮件、留言、飞书等各种渠道。
 - $\color{red}{最重要的一点}$，请大家参考完后给我点点Star或者follow一下之类的，满足一下我的虚荣心，谢谢大家哈哈哈哈。
 
-最后呢，祝大家都能取得自己理想的成绩，不要像我一样总是先摆烂（虽然好像我现在开始读博又开始有点摆烂），后面再使劲儿追赶给自己累个半死。 -->
+最后呢，祝大家都能取得自己理想的成绩，不要像我一样总是先摆烂（虽然好像我现在开始读博又开始有点摆烂），后面再使劲儿追赶给自己累个半死。
 
-<!-- <div align="center"> -->
-    <!-- <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" /> -->
-<!-- </div> -->
+<div align="center">
+    <!-- <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" />
+</div> -->
 
 <table>
     <tr>
