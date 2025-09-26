@@ -7,10 +7,10 @@
 
 
 - 👋 Hi, I’m @AnthonyHaozeZhu
-- 👀 I’m interested in NLP and CV
+- 👀 I’m interested in Multi-modal Knowledge Graph
 - 🌱 Currently working in Database & Infomation System Lab, Nankai Unversity
 - 📫 mail zhuhaoze@dbis.nankai.edu.cn to reach me
-- 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
+- 🏫 I am studying for my doctor's degree at College of Computer Science, Nankai University
 <!-- 
 &nbsp; -->
 
@@ -24,9 +24,9 @@
 
 最后呢，祝大家都能取得自己理想的成绩，不要像我一样总是先摆烂（虽然好像我现在开始读博又开始有点摆烂），后面再使劲儿追赶给自己累个半死。 -->
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" />
-</div>
+<!-- <div align="center"> -->
+    <!-- <img src="https://raw.githubusercontent.com/AnthonyHaozeZhu/AnthonyHaozeZhu/main/assets/github-contribution-grid-snake.svg" /> -->
+<!-- </div> -->
 
 <table>
     <tr>
