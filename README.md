@@ -10,7 +10,7 @@
 - 👀 I’m interested in Multi-modal Knowledge Graph
 - 🌱 Currently working in Database & Infomation System Lab, Nankai Unversity
 - 📫 mail zhuhaoze@dbis.nankai.edu.cn to reach me
-- 🏫 I am studying for my doctor's degree at College of Computer Science, Nankai University
+- 🏫 I am pursuing my Ph.D. at College of Computer Science, Nankai University
 <!-- 
 &nbsp; -->
 
